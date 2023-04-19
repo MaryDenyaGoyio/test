@@ -1,2 +1,2 @@
 # test
-test repository for learning and testing
+my test repository for learning and testing
